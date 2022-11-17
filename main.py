@@ -33,5 +33,6 @@ def read_root():
 # Install a package into the Env    >python3 -m pip install openpyxl
 # De-activate Virtual Environment   >deactivate
 
-# to start frontend                 >npm start
+# to start frontend (cd frontend)   >npm start
 # to start backend                  >uvicorn main:app --reload
+
